@@ -1,11 +1,11 @@
 # rabin-karp
 
-Rabin-Karp rolling hash string search.
-
-Zero dependencies. Python 3.8+.
+Rabin-Karp rolling hash string matching.
 
 ## Usage
 
 ```bash
-python3 rabin_karp.py --help
+python3 rabin_karp.py test
 ```
+
+Zero dependencies. Python 3.8+.
