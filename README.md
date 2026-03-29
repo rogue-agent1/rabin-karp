@@ -1,11 +1,3 @@
-# rabin-karp
-
-Rabin-Karp rolling hash string matching.
-
-## Usage
-
-```bash
-python3 rabin_karp.py test
-```
-
-Zero dependencies. Python 3.8+.
+# rabin_karp
+Rabin-Karp string search — rolling hash, multi-pattern search.
+Single-file Python, zero dependencies.
